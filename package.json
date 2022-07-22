@@ -1,6 +1,7 @@
 {
     "name": "toxxelectric",
     "displayName": "toxxelectric",
+    "publisher": "richiebzzzt",
     "description": "a theme based on a pokemon",
     "version": "0.0.1",
     "engines": {
