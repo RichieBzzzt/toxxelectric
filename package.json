@@ -1,0 +1,21 @@
+{
+    "name": "toxxelectric",
+    "displayName": "toxxelectric",
+    "description": "a theme based on a pokemon",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.69.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "toxxelectric",
+                "uiTheme": "vs-dark",
+                "path": "./themes/toxxelectric-color-theme.json"
+            }
+        ]
+    }
+}
