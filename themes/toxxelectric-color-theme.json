@@ -389,6 +389,7 @@
 	  //"terminal.border": "#666699",
 	  //"terminal.foreground": "#cccccc",
 	  //"terminal.selectionBackground": "#FFFF6640",
+	  "terminal.background": "#222244"
 	  //"tree.indentGuidesStroke": "#585858"
 	},
 	"tokenColors": [
