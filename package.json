@@ -4,6 +4,7 @@
     "publisher": "richiebzzzt",
     "description": "a theme based on a pokemon",
     "version": "0.0.1",
+    "icon": "images/icon.png",
     "engines": {
         "vscode": "^1.69.0"
     },
