@@ -17,6 +17,11 @@
                 "label": "toxxelectric",
                 "uiTheme": "vs-dark",
                 "path": "./themes/toxxelectric-color-theme.json"
+            },
+            {
+                "label": "Toxx Electric Daily",
+                "uiTheme": "vs-dark",
+                "path": "./themes/toxxelectric-daily-color-theme.json"
             }
         ]
     }
